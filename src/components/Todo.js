@@ -14,3 +14,4 @@ export const Todo = ({task, deleteTodo, editTodo, toggleComplete}) => {
     </div>
   )
 }
+
